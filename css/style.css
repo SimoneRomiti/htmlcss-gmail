@@ -74,7 +74,7 @@ h1{
   padding: 10px 0;
 }
 
-#first{
+.email > .messages:first-child{
   border-top: 2px solid black;
   line-height: 26px;
   height: 30px;
@@ -90,7 +90,7 @@ h1{
   border-bottom: 2px solid black;
 }
 
-#different-colour{
+.messages.different-colour{
   background-color: white;
 }
 
